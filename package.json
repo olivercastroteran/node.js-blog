@@ -1,0 +1,24 @@
+{
+  "name": "node.js-blog",
+  "version": "1.0.0",
+  "description": "node.js express and monogDB app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olivercastroteran/node.js-blog.git"
+  },
+  "author": "Oliver Castro Teran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olivercastroteran/node.js-blog/issues"
+  },
+  "homepage": "https://github.com/olivercastroteran/node.js-blog#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.20"
+  }
+}
